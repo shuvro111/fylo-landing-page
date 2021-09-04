@@ -30,7 +30,7 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
 ### Links
 
 - Solution URL: [View on Github](https://back-spac3.github.io/fylo-landing-page)
-- Live Site URL: [Live Demo on Github Pages](https://back-spac3.github.io/fylo)
+- Live Site URL: [Live Demo on Github Pages](https://fylo-landing-page-1.netlify.app/)
 
 ### My process
 

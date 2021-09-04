@@ -1,0 +1,23 @@
+/* Features */
+.feature-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.feature {
+  width: 40rem;
+  text-align: center;
+  margin: 5rem;
+}
+
+.feature-heading {
+  font-size: 2.2rem;
+  margin: 3rem 0rem 1rem 0rem;
+}
+
+.feature-description {
+  font-family: "Open Sans", "Raleway", sans-serif;
+  font-size: 1.6rem;
+}

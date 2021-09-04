@@ -1,46 +1,59 @@
-# Getting Started with Create React App
+## Frontend Mentor - Fylo dark theme landing page solution
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a solution to the [Fylo dark theme landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Available Scripts
+### Table of contents
 
-In the project directory, you can run:
+- [Overview](#overview)
+  - [Screenshots](#screenshots)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+  - **Shuvro Sarkar**
+  - [Connect with me](#connect)
 
-### `yarn start`
+### Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### Screenshots
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![](./screenshots/screenshot-1.jpg)
 
-### `yarn test`
+![](./screenshots/screenshot-2.jpg)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![](./screenshots/screenshot-3.jpg)
 
-### `yarn build`
+![](./screenshots/screenshot-4.jpg)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Links
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Solution URL: [View on Github](https://back-spac3.github.io/fylo-landing-page)
+- Live Site URL: [Live Demo on Github Pages](https://back-spac3.github.io/fylo)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### My process
 
-### `yarn eject`
+#### Built with
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Semantic HTML5 markup
+- CSS custom properties (Sass)
+- Flexbox
+- Desktop-first workflow
+- [React](https://reactjs.org/) - JS library
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### Continued development
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+I will participate in more [Frontend Mentor](https://frontendmentor.io) challenges and do normal design projects to boost up my design skills in future.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+#### Useful resources
 
-## Learn More
+- [ReactJS](https://www.reactjs.org) - Frontend library
+- [Sass](https://www.example.com) - Giving superpowers to css
+- [React Router](https://www.example.com) - Routing in different pages inside a react app.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### Connect with me
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Website - [Shuvro Sarkar](https://back-spac3.github.io/artist)
+- Facebook - [@Shuvro Sarkar](https://www.facebook.com/shuvrosarkar111)
+- Email - backspacecrew18@gmail.com

@@ -1,0 +1,47 @@
+/* Subscribe */
+.subscribe-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  background-color: $intro-bg;
+  padding: 4rem 8rem;
+  max-width: 70%;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 0.5rem;
+  z-index: 1;
+  position: relative;
+}
+
+.subscribe-container > h2 {
+  font-size: 3.4rem;
+}
+
+.subscribe-container p {
+  padding: 0rem 10rem;
+  font-family: "Open Sans", "Raleway", sans-serif;
+  font-size: 1.4rem;
+  margin: 3rem 0rem;
+}
+
+.subscribe-form {
+  margin-top: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.subscribe-form > input[type="text"] {
+  width: 60%;
+  height: 5rem;
+  border-radius: 50rem;
+  margin-right: 2rem;
+  text-indent: 2rem;
+}
+
+.subscribe-form > button {
+  width: 20rem;
+  background: linear-gradient(to right, $cyan, $blue);
+  height: 5rem;
+  border-radius: 50rem;
+}

@@ -1,0 +1,96 @@
+/* Footer */
+.footer-section {
+  background-color: #0b1523;
+  margin-top: -10rem;
+  padding: 15rem 5rem 5rem;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.footer-container-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
+}
+
+.footer-top {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 2rem 0rem 5rem 0rem;
+}
+
+.footer-container {
+  flex: 1;
+  padding: 0rem 5rem;
+}
+
+.footer-section .flex {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.footer-section .location {
+  align-items: flex-start;
+}
+
+.left {
+  flex: 2;
+}
+
+.left .flex {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: 3rem;
+}
+.footer-section p {
+  font-size: 1.6rem;
+  font-family: "Open Sans", "Raleway", sans-serif;
+  color: #ddd;
+  margin-left: 2.5rem;
+}
+
+.footer-section ul li:not(:first-child) {
+  margin-top: 1rem;
+}
+
+.footer-section ul li a {
+  font-family: "Open Sans", "Raleway", sans-serif;
+  font-size: 1.6rem;
+}
+
+.location-icon {
+  margin-top: 0.5rem;
+}
+
+.social-icons .flex {
+  justify-content: center;
+}
+
+.social-icons ul li:not(:first-child) {
+  margin: 0;
+  margin-left: 1rem;
+}
+
+.social-icons ul li a {
+  width: 3rem;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 0.2rem solid #ddd;
+  border-radius: 50%;
+  text-align: center;
+  margin: 2rem 0rem;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 100%, 74%);
+}

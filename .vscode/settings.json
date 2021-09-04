@@ -1,0 +1,19 @@
+{
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  "editor.cursorBlinking": "expand",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "javascript.validate.enable": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.tslint": true,
+    "source.organizeImports": true
+  },
+  "eslint.alwaysShowStatus": true,
+  "terminal.integrated.cursorBlinking": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.fontFamily": "'FiraCode', 'monospace', monospace, 'Droid Sans Fallback'"
+}

@@ -1,0 +1,17 @@
+/* Navigation */
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  padding: 0rem 5rem;
+  height: 10rem;
+  align-items: center;
+}
+
+.menu {
+  display: flex;
+}
+
+.menu > li:not(:last-child) {
+  margin-right: 2rem;
+}

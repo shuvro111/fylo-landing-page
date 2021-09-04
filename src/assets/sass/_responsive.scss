@@ -1,0 +1,124 @@
+/* Responsive */
+
+@media screen and (min-width: 767px) and (max-width: 1200px) {
+  .footer-container-wrapper {
+    flex-direction: column;
+    display: flex;
+    align-content: space-around;
+  }
+  .footer-container {
+    margin-bottom: 5rem;
+  }
+}
+
+/* Mobile & Tablet */
+@media screen and (max-width: 767px) {
+  /* Navigation */
+  .logo {
+    width: 10rem;
+  }
+
+  /* Header */
+  .header {
+    background-image: url("/src/assets/images/bg-curvy-mobile.svg");
+    background-position: center bottom;
+  }
+
+  .banner {
+    max-width: 70%;
+  }
+
+  .heading {
+    font-size: 3.2rem;
+    width: 80%;
+  }
+
+  .description {
+    font-size: 1.8rem;
+    margin: 5rem 0rem;
+  }
+
+  .cta-button {
+    padding: 2rem 10rem;
+    font-size: 1.8rem;
+  }
+
+  /* Highlights Section */
+  .highlights-container {
+    padding: 8rem 0rem;
+  }
+
+  .highlights-container > img {
+    max-width: 80%;
+    margin-bottom: 5rem 0rem;
+  }
+
+  .highlight-content {
+    margin-top: 5rem;
+  }
+
+  /* Testimonial Section */
+
+  .testimonial-container {
+    flex-direction: column;
+    align-items: center;
+    padding: 0rem 5rem;
+    background-position: 30px 0px;
+  }
+
+  .testimonial:first-child {
+    margin-top: 4rem;
+  }
+
+  .testimonial {
+    margin: 2rem 0;
+  }
+
+  .testimonial:not(:last-child) {
+    margin-right: 0rem;
+  }
+
+  /* Subscribe Section */
+  .subscribe-container {
+    padding: 4rem 0rem;
+    max-width: 90%;
+  }
+
+  .subscribe-container p {
+    font-size: 1.6rem;
+    padding: 0rem 2rem;
+  }
+
+  .subscribe-form {
+    flex-direction: column;
+    align-items: center;
+    padding: 0rem 5rem;
+  }
+
+  .subscribe-form input[type="text"] {
+    margin-right: 0rem;
+    margin-bottom: 2rem;
+    width: 100%;
+  }
+
+  .subscribe-form > button {
+    width: 100%;
+  }
+
+  .footer-section {
+    padding: 15rem 0rem 5rem;
+    flex-direction: column;
+  }
+
+  .footer-top {
+    flex-direction: column;
+  }
+
+  .footer-container-wrapper {
+    flex-direction: column;
+  }
+
+  .footer-container {
+    margin-bottom: 5rem;
+  }
+}

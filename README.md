@@ -2,7 +2,7 @@
 
 This is a solution to the [Fylo dark theme landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-###Live Preview
+### Live Preview
 - Solution URL: [View on Github](https://github.com/Back-Spac3/fylo-landing-page)
 - Live Site URL: [Live Demo on Github Pages](https://fylo-landing-page-1.netlify.app/)
 
